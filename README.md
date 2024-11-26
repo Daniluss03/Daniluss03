@@ -13,7 +13,7 @@
   </div>
 </div>
 <div style:basecamp:></div>
- <h1>🌱Certificaiones</h1>
+ <h1>🌱Certifications</h1>
 <table style="width: 100%; ">
   <tr>
    <td style="text-align: center; font-weight: bold; "> <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" width="120" alt="AWS Certified Cloud Practitioner"> <td>
@@ -26,7 +26,7 @@
 
 </table>
 
-<h1>💻 Habilidades</h1>
+<h1>💻 Skills</h1>
 <ul style="font-size: 14px; list-style-type: disc; padding-left: 20px;">
   <li><strong>Cloud</strong>: AWS, Azure</li>
   <li><strong>Lenguajes</strong>: Python</li>
@@ -39,7 +39,7 @@
 
 
 
-<h1>🔭 Proyectos y Repositorios</h1>
+<h1>🔭 Proyects</h1>
 
 Aquí están algunos de mis proyectos más destacados:
 
@@ -56,21 +56,20 @@ Aquí están algunos de mis proyectos más destacados:
 </div>
 
 
-<h1 >📊 Estadísticas de GitHub</h1> 
+<h1 >📊 Statistics</h1> 
 
 
 <div align="center">
-💬 ¡Aquí está un vistazo a mis estadísticas de GitHub!
+💬 GitHub!
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=shadow_green" />
 </div>
 
 
-## 🌐 Conectemos
+## 🌐 Let's Connect
 <a href="https://www.linkedin.com/in/danilo-rincon-2a1bb9217" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Danilo%20Rinc%C3%B3n-blue?style=social&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, ¡no dudes en contactarme! 😄
