@@ -12,47 +12,46 @@
     <p><strong>Cloud Engineer</strong> with a strong focus on AWS, I am skilled in designing and managing scalable, highly available systems that drive business growth. I have hands-on experience deploying cloud-based solutions and automating processes, leveraging AWS services like EC2, S3, Lambda, and RDS to create optimized, cost-effective solutions that enhance performance. Passionate about building resilient systems that scale with demand, I continuously explore new AWS innovations to stay ahead of industry trends and bring fresh ideas to every project. My goal is to deliver seamless, reliable cloud infrastructure that powers the future of businesses.</p>
   </div>
 </div>
-<h1>💻 Skills</h1>
 
+ <h1>💬Skills</h1>
+<div align="center">
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <img alt="Python" src="https://img.shields.io/badge/Python-00b52e">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-82a100">
   <img alt="Django" src="https://img.shields.io/badge/Django-00a135">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0096d2">
 </div>
+</div>
 
 
  <h1>🌱Certifications</h1>
-<div style="display: flex; flex-direction: column; gap: 10px;">
+ <div align="center">
+ <div style="display: flex; flex-direction: column; gap: 10px;">
 <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" width="120" alt="AWS Certified Cloud Solutions Architect Associate"> 
 <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" width="120" alt="AWS Certified Cloud Practitioner"> 
 <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1461449489/image193214236496861289.png" width="120" alt="Azure Fundamentals">
 <img src="https://www.unad-ue.es/images/2023/50_Oracle_Cloud_Infrastructure.png" width="120" alt="Oracle Cloud Foundations">
 </div>
+</div>
+
 
 
 <h1>🔭 Proyects</h1>
 
 Aquí están algunos de mis proyectos más destacados:
-
-<div style="display: flex; gap: 20px; align:center">
-  <a href="https://github.com/Daniluss03/FastApiAndSQLserver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=FastApiAndSQLserver&theme=shadow_green" />
-</a>
-<a href="https://github.com/Daniluss03/TokenWithDjangorestFramework">
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=FastApiAndSQLserver&theme=shadow_green" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=TokenWithDjangorestFramework&theme=shadow_green" />
-</a>
-<a href="https://github.com/Daniluss03/ConsumoApiReactjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=ConsumoApiReactjs&theme=shadow_green" />
-</a>
 </div>
+
 
 
 <h1 >📊 Statistics</h1> 
 
 
 <div align="center">
-💬 GitHub!
+ GitHub!
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=shadow_green" />
