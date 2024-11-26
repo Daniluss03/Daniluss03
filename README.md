@@ -12,31 +12,23 @@
     <p><strong>Cloud Engineer</strong> with a strong focus on AWS, I am skilled in designing and managing scalable, highly available systems that drive business growth. I have hands-on experience deploying cloud-based solutions and automating processes, leveraging AWS services like EC2, S3, Lambda, and RDS to create optimized, cost-effective solutions that enhance performance. Passionate about building resilient systems that scale with demand, I continuously explore new AWS innovations to stay ahead of industry trends and bring fresh ideas to every project. My goal is to deliver seamless, reliable cloud infrastructure that powers the future of businesses.</p>
   </div>
 </div>
-<div style:basecamp:></div>
- <h1>🌱Certifications</h1>
-<table style="width: 100%; ">
-  <tr>
-   <td style="text-align: center; font-weight: bold; "> <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" width="120" alt="AWS Certified Cloud Practitioner"> <td>
-    <td style="text-align: center;">
-      <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" width="120" alt="AWS Certified Cloud Solutions Architect Associate">
-    </td>
-<td style="text-align: center; font-weight: bold;">  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1461449489/image193214236496861289.png" width="120" alt="Azure Fundamentals"></td> 
-<td style="text-align: center; font-weight: bold;">    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" width="120" alt="Oracle Cloud Foundations"></td> 
-  </tr>
-
-</table>
-
 <h1>💻 Skills</h1>
-<ul style="font-size: 14px; list-style-type: disc; padding-left: 20px;">
-  <li><strong>Cloud</strong>: AWS, Azure</li>
-  <li><strong>Lenguajes</strong>: Python</li>
-  <li><strong>Frameworks</strong>: Django</li>
-  <li><strong>Bases de datos</strong>: MySQL, PostgreSQL, RDS, Aurora</li>
-  <li><strong>Otros</strong>: Docker, Kubernetes, Terraform</li>
-</ul>
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <img alt="Python" src="https://img.shields.io/badge/Python-00b52e">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-82a100">
+  <img alt="Django" src="https://img.shields.io/badge/Django-00a135">
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0096d2">
+</div>
 
 
-
+ <h1>🌱Certifications</h1>
+<div style="display: flex; flex-direction: column; gap: 10px;">
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" width="120" alt="AWS Certified Cloud Solutions Architect Associate"> 
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" width="120" alt="AWS Certified Cloud Practitioner"> 
+<img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1461449489/image193214236496861289.png" width="120" alt="Azure Fundamentals">
+<img src="https://www.unad-ue.es/images/2023/50_Oracle_Cloud_Infrastructure.png" width="120" alt="Oracle Cloud Foundations">
+</div>
 
 
 <h1>🔭 Proyects</h1>
