@@ -68,9 +68,9 @@ Aquí están algunos de mis proyectos más destacados:
 
 
 ## 🌐 Conectemos
-- [LinkedIn](www.linkedin.com/in/danilo-rincon-2a1bb9217)
+<a href="https://www.linkedin.com/in/danilo-rincon-2a1bb9217" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Danilo%20Rinc%C3%B3n-blue?style=social&logo=linkedin" alt="LinkedIn"/>
+</a>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
----
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, ¡no dudes en contactarme! 😄
