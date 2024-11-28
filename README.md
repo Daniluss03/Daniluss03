@@ -5,8 +5,10 @@
 <h3 align="center">Software Engineer | Aws X2 | Azure | Python</h3>
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/bed42c64-38f3-4fc7-b97a-ff947028b9f2" alt="cloud" width="100%" height="300px">
+    <img src="https://github.com/user-attachments/assets/44c40a9c-8f2d-4f05-827d-2081197c1ce5" alt="cloud" width="100%" height="300px">
   </div>
+
+
 
   <div style="flex: 1; text-align: left;">
     <p><strong>Cloud Engineer</strong> with a strong focus on AWS, I am skilled in designing and managing scalable, highly available systems that drive business growth. I have hands-on experience deploying cloud-based solutions and automating processes, leveraging AWS services like EC2, S3, Lambda, and RDS to create optimized, cost-effective solutions that enhance performance. Passionate about building resilient systems that scale with demand, I continuously explore new AWS innovations to stay ahead of industry trends and bring fresh ideas to every project. My goal is to deliver seamless, reliable cloud infrastructure that powers the future of businesses.</p>
