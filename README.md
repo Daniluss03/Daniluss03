@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer | Aws X2 | Azure | Python</h3>
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/2c3c7cb3-8bf6-4987-868b-d552aa8c8884" alt="cloud" width="100%" height="300px">
+    <img src="https://github.com/user-attachments/assets/9cfae272-885d-4d7e-9cfd-811ebbf2f919" alt="cloud" width="100%" height="300px">
   </div>
 
 
