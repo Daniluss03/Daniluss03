@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi , 🧑‍💻 I'm Danilo</h1>
+  <h1>Hi there , 🧑‍💻 I'm Danilo</h1>
 </div>
 
 <h3 align="center">Software Engineer | Aws X2 | Azure | Python</h3>
