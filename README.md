@@ -2,7 +2,7 @@
   <h1>Hi there , 🧑‍💻 I'm Danilo</h1>
 </div>
 
-<h3 align="center">Software Engineer | Aws X2 | Azure | Python</h3>
+<h3 align="center">Software Engineer | Aws X2 | Azure | Django |Python</h3>
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1; text-align: center;">
     <img src="https://github.com/user-attachments/assets/9cfae272-885d-4d7e-9cfd-811ebbf2f919" alt="cloud" width="100%" height="300px">
