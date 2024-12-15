@@ -1,13 +1,18 @@
+
+
+
 <div align="center">
+
+  
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/5ce6c63a-a73b-45b6-9840-934d5d97bcbb" alt="cloud" width="50%" height="500px">
+  </div>
+
   <h1>Hi there , 🧑‍💻 I'm Danilo</h1>
 </div>
 
 <h3 align="center">Software Engineer | Aws X2 | Azure | Django |Python</h3>
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/9cfae272-885d-4d7e-9cfd-811ebbf2f919" alt="cloud" width="100%" height="300px">
-  </div>
-
 
 
 
@@ -43,9 +48,9 @@
 
 Aquí están algunos de mis proyectos más destacados:
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=FastApiAndSQLserver&theme=shadow_green" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=TokenWithDjangorestFramework&theme=shadow_green" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=ConsumoApiReactjs&theme=shadow_green" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=FastApiAndSQLserver&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=TokenWithDjangorestFramework&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=ConsumoApiReactjs&theme=light" />
 </div>
 
 
@@ -57,7 +62,7 @@ Aquí están algunos de mis proyectos más destacados:
  GitHub!
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=shadow_green" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=light" />
 </div>
 
 
