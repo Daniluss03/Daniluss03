@@ -48,9 +48,11 @@
 
 Aquí están algunos de mis proyectos más destacados:
 <div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=DjangoAndAWS&theme=light" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=FastApiAndSQLserver&theme=light" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=TokenWithDjangorestFramework&theme=light" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=ConsumoApiReactjs&theme=light" />
+
 </div>
 
 
