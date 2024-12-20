@@ -21,15 +21,6 @@
   </div>
 </div>
 
- <h1>💬Skills</h1>
-<div align="center">
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <img alt="Python" src="https://img.shields.io/badge/Python-00b52e">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-82a100">
-  <img alt="Django" src="https://img.shields.io/badge/Django-00a135">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0096d2">
-</div>
-</div>
 
 
  <h1>🌱Certifications</h1>
@@ -42,6 +33,15 @@
 </div>
 </div>
 
+ <h1>💬Skills</h1>
+<div align="center">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <img alt="Python" src="https://img.shields.io/badge/Python-00b52e">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-82a100">
+  <img alt="Django" src="https://img.shields.io/badge/Django-00a135">
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0096d2">
+</div>
+</div>
 
 
 <h1>🔭 Proyects</h1>
