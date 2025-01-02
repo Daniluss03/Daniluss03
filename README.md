@@ -18,7 +18,7 @@
 
 
   <div style="flex: 1; text-align: left;">
-    <p><strong>Cloud Engineer</strong> with a strong focus on AWS, I am skilled in designing and managing scalable, highly available systems that drive business growth. I have hands-on experience deploying cloud-based solutions and automating processes, leveraging AWS services like EC2, S3, Lambda, and RDS to create optimized, cost-effective solutions that enhance performance. Passionate about building resilient systems that scale with demand, I continuously explore new AWS innovations to stay ahead of industry trends and bring fresh ideas to every project. My goal is to deliver seamless, reliable cloud infrastructure that powers the future of businesses.</p>
+    <p align="justify"  ><strong>Cloud Engineer</strong> with a strong focus on AWS, I am skilled in designing and managing scalable, highly available systems that drive business growth. I have hands-on experience deploying cloud-based solutions and automating processes, leveraging AWS services like EC2, S3, Lambda, and RDS to create optimized, cost-effective solutions that enhance performance. Passionate about building resilient systems that scale with demand, I continuously explore new AWS innovations to stay ahead of industry trends and bring fresh ideas to every project. My goal is to deliver seamless, reliable cloud infrastructure that powers the future of businesses.</p>
   </div>
 </div>
 
@@ -37,10 +37,10 @@
  <h1>💬Skills</h1>
 <div align="center">
 <div style="display: flex; flex-direction: column; gap: 10px;">
-  <img alt="Python" src="https://img.shields.io/badge/Python-00b52e">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-82a100">
-  <img alt="Django" src="https://img.shields.io/badge/Django-00a135">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0096d2">
+  <img alt="Python" src="https://img.shields.io/badge/Python-111">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-111">
+  <img alt="Django" src="https://img.shields.io/badge/Django-111">
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-111">
 </div>
 </div>
 
@@ -49,10 +49,10 @@
 
 Aquí están algunos de mis proyectos más destacados:
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=DjangoAndAWS&theme=light" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=FastApiAndSQLserver&theme=light" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=TokenWithDjangorestFramework&theme=light" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=ConsumoApiReactjs&theme=light" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=DjangoAndAWS&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=FastApiAndSQLserver&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=TokenWithDjangorestFramework&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniluss03&repo=ConsumoApiReactjs&theme=dark" />
 
 </div>
 
@@ -65,7 +65,7 @@ Aquí están algunos de mis proyectos más destacados:
  GitHub!
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=light" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" />
 </div>
 
 
