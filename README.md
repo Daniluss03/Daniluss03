@@ -6,25 +6,26 @@
   
 <div style="display: flex; gap: 20px;">
   
-  <h1>Hi there , 🧑‍💻 I'm Danilo</h1>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/5ce6c63a-a73b-45b6-9840-934d5d97bcbb" alt="cloud" width="90%" height="500px">
-  </div>
+  <h2>Hi there , 🧑‍💻 I'm Danilo</h2>
+  <h5> 🌐 Let's Connect
+<a href="https://www.linkedin.com/in/danilo-rincon-2a1bb9217" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Danilo%20Rinc%C3%B3n-blue?style=social&logo=linkedin" alt="LinkedIn"/>
+</a></h5>
+  <strong align="center">Software Engineer | Aws X2 | Azure X1 | Django |Python</strong>
+ 
+<table border="none">
+  <tr>
+    <td style="width: 100%; text-align: center; border:none">
+      <img src="https://github.com/user-attachments/assets/c8b0be22-f046-409f-bcea-b1509563e88f" alt="cloud" style="width: 400rem; height: 400px; ">
+    </td>
+    <td style="width: 20%; text-align: left;">
+      <strong>Cloud Engineer</strong> with a strong focus on AWS, I am skilled in designing and managing scalable, highly available systems that drive business growth. I have hands-on experience deploying cloud-based solutions and automating processes, leveraging AWS services like EC2, S3, Lambda, and RDS to create optimized, cost-effective solutions that enhance performance. Passionate about building resilient systems that scale with demand, I continuously explore new AWS innovations to stay ahead of industry trends and bring fresh ideas to every project. My goal is to deliver seamless, reliable cloud infrastructure that powers the future of businesses.
+    </td>
+  </tr>
+</table>
 
-</div>
 
-<h3 align="center">Software Engineer | Aws X2 | Azure | Django |Python</h3>
-
-
-
-  <div style="flex: 1; text-align: left;">
-    <p align="justify"  ><strong>Cloud Engineer</strong> with a strong focus on AWS, I am skilled in designing and managing scalable, highly available systems that drive business growth. I have hands-on experience deploying cloud-based solutions and automating processes, leveraging AWS services like EC2, S3, Lambda, and RDS to create optimized, cost-effective solutions that enhance performance. Passionate about building resilient systems that scale with demand, I continuously explore new AWS innovations to stay ahead of industry trends and bring fresh ideas to every project. My goal is to deliver seamless, reliable cloud infrastructure that powers the future of businesses.</p>
-  </div>
-</div>
-
-
-
- <h1>🌱Certifications</h1>
+ <h4>🌱Certifications</h4>
  <div align="center">
  <div style="display: flex; flex-direction: column; gap: 10px;">
 <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" width="120" alt="AWS Certified Cloud Solutions Architect Associate"> 
@@ -34,7 +35,7 @@
 </div>
 </div>
 
- <h1>💬Skills</h1>
+ <h4>💬Skills</h4>
 <div align="center">
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <img alt="Python" src="https://img.shields.io/badge/Python-111">
@@ -45,7 +46,7 @@
 </div>
 
 
-<h1>🔭 Proyects</h1>
+<h4>🔭 Proyects</h4>
 
 Aquí están algunos de mis proyectos más destacados:
 <div align="center">
@@ -58,7 +59,7 @@ Aquí están algunos de mis proyectos más destacados:
 
 
 
-<h1 >📊 Statistics</h1> 
+<h4>📊 Statistics</h4> 
 
 
 <div align="center">
@@ -69,9 +70,6 @@ Aquí están algunos de mis proyectos más destacados:
 </div>
 
 
-## 🌐 Let's Connect
-<a href="https://www.linkedin.com/in/danilo-rincon-2a1bb9217" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Danilo%20Rinc%C3%B3n-blue?style=social&logo=linkedin" alt="LinkedIn"/>
-</a>
+
 
 
