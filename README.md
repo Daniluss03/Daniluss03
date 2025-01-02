@@ -5,11 +5,12 @@
 
   
 <div style="display: flex; gap: 20px;">
+  
+  <h1>Hi there , 🧑‍💻 I'm Danilo</h1>
   <div style="flex: 1; text-align: center;">
     <img src="https://github.com/user-attachments/assets/5ce6c63a-a73b-45b6-9840-934d5d97bcbb" alt="cloud" width="90%" height="500px">
   </div>
 
-  <h1>Hi there , 🧑‍💻 I'm Danilo</h1>
 </div>
 
 <h3 align="center">Software Engineer | Aws X2 | Azure | Django |Python</h3>
