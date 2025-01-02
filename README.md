@@ -13,9 +13,9 @@
 </a></h5>
   <strong align="center">Software Engineer | Aws X2 | Azure X1 | Django |Python</strong>
  
-<table border="none">
+<table >
   <tr>
-    <td style="width: 100%; text-align: center; border:none">
+    <td style="width: 100%; text-align: center;">
       <img src="https://github.com/user-attachments/assets/c8b0be22-f046-409f-bcea-b1509563e88f" alt="cloud" style="width: 400rem; height: 400px; ">
     </td>
     <td style="width: 20%; text-align: left;">
