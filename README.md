@@ -66,7 +66,8 @@ Aquí están algunos de mis proyectos más destacados:
  GitHub!
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark&cache_seconds=1800" />
+
 </div>
 
 
