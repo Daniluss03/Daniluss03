@@ -46,7 +46,7 @@
 </div>
 
 
-<h4>🔭 Proyects</h4>
+<h4>🔭 Projects</h4>
 
 Aquí están algunos de mis proyectos más destacados:
 <div align="center">
