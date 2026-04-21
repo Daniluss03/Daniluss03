@@ -16,7 +16,6 @@
 <table >
   <tr>
     <td style="width: 100%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/c8b0be22-f046-409f-bcea-b1509563e88f" alt="cloud" style="width: 400rem; height: 400px; ">
     </td>
     <td style="width: 20%; text-align: left;">
       <strong>Cloud Engineer</strong> with a strong focus on Azure and AWS, I am skilled in designing and managing scalable, highly available systems that drive business growth. I have hands-on experience deploying cloud-based solutions and automating processes, leveraging AWS services like EC2, S3, Lambda, and RDS to create optimized, cost-effective solutions that enhance performance. Passionate about building resilient systems that scale with demand, I continuously explore new AWS innovations to stay ahead of industry trends and bring fresh ideas to every project. My goal is to deliver seamless, reliable cloud infrastructure that powers the future of businesses.
