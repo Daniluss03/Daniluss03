@@ -170,10 +170,6 @@ Passionate about building resilient, automated systems that scale with demand â€
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniluss03&theme=dark&hide_border=false" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Daniluss03&show_icons=true&count_private=true&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniluss03&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages"/>
 
 </div>
 
